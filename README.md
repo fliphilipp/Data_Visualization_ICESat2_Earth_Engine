@@ -16,4 +16,4 @@ Contact: parndt@ucsd.edu
 - Make a plot from ICESat-2 data and contemporaneous imagery in Jupyter/matplotlib
 - Bonus material: Extract Sentinel-2 data onto the ICESat-2 ground track 
 
-* **Note from June 2024:** OpenAltimetry has become very slow since it transitioned to being hosted at NSIDC. Also, some of the data products have become unavailable through the API (this prints as "request failed" for now). When this code runs, it is now unfortunately painfully slow. I am told that the OpenAltimetry/NSIDC teams are working on fixing this.*
+**Note from June 2024:** *OpenAltimetry has become very slow since it transitioned to being hosted at NSIDC. Also, some of the data products have become unavailable through the API (this prints as "request failed" for now). When this code runs, it is now unfortunately painfully slow. I am told that the OpenAltimetry/NSIDC teams are working on fixing this.*
